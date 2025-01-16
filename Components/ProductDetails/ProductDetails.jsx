@@ -212,35 +212,35 @@ const ProductDetails = () => {
           <h3 class="text-sm font-medium text-gray-700 mb-4">You may like</h3>
           <ul class="space-y-4">
             <li class="flex items-center space-x-4">
-              <img src="images/blezze 2.jpg" alt="Men Blazer" class="w-16 h-16 rounded" />
+              <img src="image5.png" alt="Men Blazer" class="w-16 h-16 rounded" />
               <div>
                 <p class="text-sm text-gray-900">Men Blazers Sets Elegant Formal</p>
                 <p class="text-sm text-gray-500">$7.00 - $99.50</p>
               </div>
             </li>
             <li class="flex items-center space-x-4">
-              <img src="images/blezze 4.jpg" alt="Men Shirt" class="w-16 h-16 rounded" />
+              <img src="image4.png" alt="Men Shirt" class="w-16 h-16 rounded" />
               <div>
                 <p class="text-sm text-gray-900">Men Shirt Sleeve Polo Contrast</p>
                 <p class="text-sm text-gray-500">$7.00 - $99.50</p>
               </div>
             </li>
             <li class="flex items-center space-x-4">
-              <img src="images/blezze 5.jpg" alt="Apple Watch" class="w-16 h-16 rounded" />
+              <img src="image3.png" alt="Apple Watch" class="w-16 h-16 rounded" />
               <div>
                 <p class="text-sm text-gray-900">Apple Watch Series Space Gray</p>
                 <p class="text-sm text-gray-500">$7.00 - $99.50</p>
               </div>
             </li>
             <li class="flex items-center space-x-4">
-              <img src="images/blezzer 3.jpg" alt="Basketball Crew" class="w-16 h-16 rounded" />
+              <img src="image2.png" alt="Basketball Crew" class="w-16 h-16 rounded" />
               <div>
                 <p class="text-sm text-gray-900">Basketball Crew Socks Long Stuff</p>
                 <p class="text-sm text-gray-500">$7.00 - $99.50</p>
               </div>
             </li>
             <li class="flex items-center space-x-4">
-              <img src="images/shirt 4.jpg" alt="T-Shirt" class="w-16 h-16 rounded" />
+              <img src="image1.png" alt="T-Shirt" class="w-16 h-16 rounded" />
               <div>
                 <p class="text-sm text-gray-900">New Summer Men's Castrol T-Shirts</p>
                 <p class="text-sm text-gray-500">$7.00 - $99.50</p>
