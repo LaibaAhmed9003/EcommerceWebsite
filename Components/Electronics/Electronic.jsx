@@ -27,6 +27,7 @@ const Electronics = () => {
           </div>
           <img src="watch.png" alt="Soft chairs" className="h-16 self-end" />
         </div>
+         {/* Card 2 */}
         <div className="border p-2 flex flex-col justify-between text-start bg-white rounded shadow h-[130px]">
           <div>
             <h2 className="text-black  text-[15px]">Cameras</h2>
@@ -35,6 +36,7 @@ const Electronics = () => {
           </div>
           <img src="camera.png" alt="Soft chairs" className="h-16 self-end" />
         </div>
+         {/* Card 3 */}
         <div className="border p-2 flex flex-col justify-between text-start bg-white rounded shadow h-[130px]">
           <div>
             <h2 className="text-black  text-[15px]">Headphones</h2>
@@ -43,6 +45,7 @@ const Electronics = () => {
           </div>
           <img src="headphone.png" alt="Soft chairs" className="h-16 self-end" />
         </div>
+         {/* Card 4 */}
         <div className="border p-2 flex flex-col justify-between text-start bg-white rounded shadow h-[130px]">
           <div>
             <h2 className="text-black  text-[15px]">Smart Watches</h2>
@@ -51,6 +54,7 @@ const Electronics = () => {
           </div>
           <img src="kettle.png" alt="Soft chairs" className="h-16 self-end" />
         </div>
+         {/* Card 5 */}
         <div className="border p-2 flex flex-col justify-between text-start bg-white rounded shadow h-[130px]">
           <div>
             <h2 className="text-black  text-[15px]">Gaming Set</h2>
@@ -59,6 +63,7 @@ const Electronics = () => {
           </div>
           <img src="headphones.png" alt="Soft chairs" className="h-16 self-end" />
         </div>
+         {/* Card 6 */}
         <div className="border p-2 flex flex-col justify-between text-start bg-white rounded shadow h-[130px]">
           <div>
             <h2 className="text-black  text-[15px]">Laptops and PC</h2>
@@ -67,6 +72,7 @@ const Electronics = () => {
           </div>
           <img src="laptop.png" alt="Soft chairs" className="h-16 self-end" />
         </div>
+         {/* Card 7 */}
         <div className="border p-2 flex flex-col justify-between text-start bg-white rounded shadow h-[130px]">
           <div>
             <h2 className="text-black  text-[15px]">Smart Phones</h2>
