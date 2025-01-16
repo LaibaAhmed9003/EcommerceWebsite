@@ -20,23 +20,18 @@ const Header = () => {
               class="flex-grow px-3 py-1 text-sm focus:outline-none"
             />
             <div class="h-full w-px bg-blue-500"></div>
-
+            
             <select class="px-3 py-1 text-sm focus:outline-none">
               <option>All Categories</option>
               <option>Electronics</option>
               <option>Clothing</option>
               <option>Books</option>
             </select>
-
-
             <div class="h-full w-px bg-blue-500"></div>
-
-
             <button class="bg-blue-500 text-white px-5 py-1 text-sm hover:bg-blue-600 focus:outline-none">
               Search
             </button>
           </div>
-
         </div>
       </div>
 
